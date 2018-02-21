@@ -12,7 +12,7 @@
   <!-- Styles -->
   <link rel="stylesheet" href="{{ asset('css/vendor.css') }}">
   <!-- Theme initialization -->
-  <link rel="stylesheet" id="theme-style" href="{{ asset('css/app-blue.css') }}">
+  <link rel="stylesheet" href="{{ asset('css/app-blue.css') }}">
 </head>
 <body>
 

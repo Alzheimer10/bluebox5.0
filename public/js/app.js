@@ -1288,7 +1288,7 @@ $(function () {
 	*				Initial State
 	*************************************************/
 
-	setThemeSettings();
+	// setThemeSettings();
 
 	/************************************************
 	*					Events
